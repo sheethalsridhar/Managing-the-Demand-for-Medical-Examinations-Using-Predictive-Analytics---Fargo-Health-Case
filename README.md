@@ -1,1 +1,1 @@
-# Managing-the-Demand-for-Medical-Examinations-Using-Predictive-Analytics---Fargo-Health-Case
+# Managing-the-Demand-for-Medical-Examinations-Using-Predictive-Analytics-at-Fargo-Health-Group
